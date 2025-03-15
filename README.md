@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chronovoid-ishuboi" alt="chronovoid-ishuboi" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and NumPy**
+- 🌱 I’m currently learning **DSA,NumPy and PyCharm**
 
 - 💬 Ask me about **Anything, literally**
 
-- 📫 How to reach me **issmawm28@gmail.com**
+- 📫 How to reach me **issmamwm28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
