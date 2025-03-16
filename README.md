@@ -21,7 +21,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chronovoid-ishuboi&show_icons=true&locale=en&layout=compact" alt="chronovoid-ishuboi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chronovoid-ishuboi&show_icons=true&locale=en" alt="chronovoid-ishuboi" /></p>
+<p>&nbsp;<img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronovoid-ishuboi)](https://github.com/anuraghazra/github-readme-stats)" alt="chronovoid-ishuboi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chronovoid-ishuboi&" alt="chronovoid-ishuboi" /></p>
+
 
