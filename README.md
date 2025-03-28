@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-### Snake Animation
+
 
 ![Snake animation](https://github.com/chronovoid-ishuboi/chronovoid-ishuboi/blob/output/snake.svg)
 
