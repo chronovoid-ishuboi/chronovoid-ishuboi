@@ -50,6 +50,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/chronovoid-ishuboi/chronovoid-ishuboi/output/snake.svg" alt="Snake animation" />
+/*<img src="https://raw.githubusercontent.com/chronovoid-ishuboi/chronovoid-ishuboi/output/snake.svg" alt="Snake animation" />*/
+### Snake Animation
+
+![Snake animation](https://github.com/chronovoid-ishuboi/chronovoid-ishuboi/blob/output/snake.svg)
+
 
 ###
